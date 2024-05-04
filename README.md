@@ -8,7 +8,7 @@ I am a highly motivated, driven front-end developer with a background in human r
 
 
 ### About me: 
-- 🌍 I'm based in Barrie, Ontario
+- 🌍 I'm based in Windsor, Ontario
 * 👨‍💻 All of my projects are available at [marinaz.dev](https://marinaz.dev/)
 * 📫 You can reach me at [marinaz.code@gmail.com](mailto:marinaz.code@gmail.com)
 * 🧠 I'm learning Wordpress, Node, and TypeScript
