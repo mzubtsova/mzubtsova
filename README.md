@@ -1,46 +1,69 @@
-# Hi, I'm Marina Zubtsova! 👋
-### Campaign Manager & Growth Engineer specializing in Lifecycle Marketing Automation & Frontend Development
+# Hello World, I'm Marina! 👋
 
-I bridge the gap between marketing strategy and technical execution. With 2+ years of experience in lifecycle campaign management (executing trigger-based journeys, segmentation, and A/B tests using **Braze Canvas** and **Punchh**) combined with a background in **frontend web development**, I build and automate high-performing customer experiences.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Campaign+Manager+%7C+Braze+Certified;Growth+Engineer+%7C+Frontend+Developer;Lifecycle+Automation+Architect" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marinazubtsova/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:marinaz.code@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Austin%2C%20TX-9f1239?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 About Me
+I specialize in the intersection of **marketing automation strategy** and **technical engineering** (often called **MarTech / Growth Engineering**). With 2+ years of experience executing multi-channel trigger-based journeys (Braze Canvas, Punchh) at agencies like Publicis, combined with a background in web development, I bridge the gap between creative briefs and complex API integrations.
+
+---
+
+### 🛠️ Technologies & Skills
+
+#### 🎯 Marketing Technology (MarTech)
+![Braze](https://img.shields.io/badge/Braze-FF5B35?style=flat-square&logo=braze&logoColor=white)
+![Punchh](https://img.shields.io/badge/PAR_Punchh-E21A22?style=flat-square&logoColor=white)
+![Branch](https://img.shields.io/badge/Branch-0076C0?style=flat-square&logo=branch&logoColor=white)
+![Movable Ink](https://img.shields.io/badge/Movable_Ink-000000?style=flat-square&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid_Logic-818cf8?style=flat-square&logoColor=white)
+
+#### 💻 Frontend Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 💻 Personal Projects
 
 ### ⚡ [SmartCanvas AI](https://github.com/mzubtsova/smart-canvas-ai)
 An AI-powered multi-channel campaign copywriter, responsive HTML email builder, and live **Liquid personalization sandbox**.
-*   **The CRM Gap**: Helps campaign managers QA complex Liquid variables and conditional flows (`{% if %}`) instantly inside a client-side sandbox using mock customer segments (VIP vs standard), without altering database profiles.
-*   **Integrations**: Features an **A/B copy response simulator** using AI buyer personas and exports compiled templates directly into **Braze** via REST APIs.
-*   **Tech Stack**: React, Custom HSL CSS, Gemini API, custom client-side Liquid logic parser.
+*   **Key Workflows**: Mimics the Braze preview QA process by testing custom Liquid tags against mock user JSON records instantly on-screen.
+*   **Features**: Includes A/B persona simulated reviews, secure API key local storage, and template uploading via the **Braze templates API**.
 
 ### 🏆 [LoyaltyBoost AI](https://github.com/mzubtsova/loyalty-boost-ai)
 An interactive gamified loyalty campaign planner, promotion simulator, and digital wallet visualizer.
-*   **The Loyalty Gap**: Helps CRM marketers plan point multipliers (e.g. 2x, 3x stars) and instantly previews the customer experience on a simulated iOS/Android mobile wallet pass.
-*   **Psychology Audit**: Includes a behavioral psychology audit grading **Loss Aversion**, **Friction**, and **Fatigue Risk** to optimize promotional ROI.
-*   **Tech Stack**: React, custom smartphone mockup CSS, Gemini API, localStorage.
+*   **Key Workflows**: Designs point-multiplying campaign actions and simulates the customer experience on a dynamic Apple Wallet/Google Pay loyalty card pass mock screen (changing color based on Gold, Silver, or Bronze levels).
+*   **Features**: Runs offer mechanics through an AI behavioral economist to audit and score **Loss Aversion**, **Friction**, and **List Fatigue**.
 
 ---
 
-## 🛠️ Tech Stack & Certifications
-
-### 🎯 Marketing Automation & CRM
-*   **Platforms**: Braze (Certified Marketer), PAR Punchh (Loyalty & Platform Certified), Branch, Movable Ink
-*   **Lifecycle Strategy**: Lifecycle marketing journeys, cohort segmentation, A/B testing, campaign optimization
-
-### 💻 Frontend Development
-*   **Languages**: Liquid logic, HTML5, CSS3, JavaScript (ES6)
-*   **Tools & Libraries**: React, Vite, Git/GitHub, Responsive Email Development (inline-CSS & table layout QA)
-
----
-
-## 📈 Professional Highlights
-*   **Dairy Queen Campaign Success**: Executed multi-channel lifecycle journeys in Braze Canvas, increasing unique open rates by 30% and click-through rates by 10%.
-*   **Automated Personalization**: Deployed partner integrations with Branch and Movable Ink, reducing deployment errors and campaign rework.
-*   **Frontend Immersive Bootcamp**: Graduate of Juno College of Technology (Web Development Bootcamp), specializing in semantic markup and responsive system architecture.
+## 📜 Certifications & Education
+<details>
+  <summary><b>Click to expand certifications & degrees</b></summary>
+  <br/>
+  
+  *   **Braze Certified Marketer** - *Braze (May 2023)*
+  *   **Loyalty Marketing Certification** - *PAR Punchh (May 2024)*
+  *   **Punchh Platform Certification** - *PAR Punchh (May 2024)*
+  *   **Web Development Immersive** - *Juno College of Technology (2022)*
+  *   **Bachelor of Personnel Management** - *MADI State Technical University (2018)*
+</details>
 
 ---
 
-## 📫 Let's Connect!
-*   **LinkedIn**: [linkedin.com/in/mzubtsova](https://www.linkedin.com/in/marinazubtsova/)
-*   **Email**: [marinaz.code@gmail.com](mailto:marinaz.code@gmail.com)
-*   **Location**: Austin, TX
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mzubtsova&show_icons=true&theme=nord&count_private=true" alt="Marina's GitHub Stats" />
+</p>
