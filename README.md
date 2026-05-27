@@ -13,7 +13,9 @@
 ---
 
 ### 🚀 About Me
-I specialize in the intersection of **marketing automation strategy** and **technical engineering** (often called **MarTech / Growth Engineering**). With 2+ years of experience executing multi-channel trigger-based journeys (Braze Canvas, Punchh) at agencies like Publicis, combined with a background in web development, I bridge the gap between creative briefs and complex API integrations.
+I am a lifecycle campaign specialist and MarTech engineer with a developer's mindset. I believe that retention marketing is built at the intersection of data accuracy and customer empathy. 
+
+By writing responsive HTML/CSS templates, scripting complex Liquid segmentation loops, and coordinating partner integrations (like Movable Ink and Branch), I turn raw user data into personalized brand experiences. My goal is to build automated, high-performing user journeys that drive measurable growth—like helping brands increase open rates by 30% and optimize conversion metrics.
 
 ---
 
