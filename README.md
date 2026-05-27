@@ -13,9 +13,10 @@
 ---
 
 ### 🚀 About Me
-I am a lifecycle campaign specialist and MarTech engineer with a developer's mindset. I believe that retention marketing is built at the intersection of data accuracy and customer empathy. 
-
-By writing responsive HTML/CSS templates, scripting complex Liquid segmentation loops, and coordinating partner integrations (like Movable Ink and Branch), I turn raw user data into personalized brand experiences. My goal is to build automated, high-performing user journeys that drive measurable growth—like helping brands increase open rates by 30% and optimize conversion metrics.
+*   🎯 **Focus**: Campaign lifecycle marketing, CRM engineering, and web development.
+*   💼 **My Experience**: Executed multi-channel Journeys (Braze Canvas, Punchh) at agencies like Publicis.
+*   🔧 **The Hybrid Advantage**: I translate creative marketing requirements into clean, error-free HTML, CSS, and Liquid code.
+*   🧠 **Active Interest**: Applying Generative AI to automate campaign workflows and A/B copy testing.
 
 ---
 
