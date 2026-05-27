@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 *   🎯 **Focus**: Campaign lifecycle marketing, CRM engineering, and web development.
-*   💼 **My Experience**: Executed multi-channel Journeys (Braze Canvas, Punchh) at agencies like Publicis.
+*   💼 **My Experience**: Partnered with enterprise clients to execute personalized, multi-channel journeys (Braze Canvas, Punchh) that drive customer engagement.
 *   🔧 **The Hybrid Advantage**: I translate creative marketing requirements into clean, error-free HTML, CSS, and Liquid code.
 *   🧠 **Active Interest**: Applying Generative AI to automate campaign workflows and A/B copy testing.
 
