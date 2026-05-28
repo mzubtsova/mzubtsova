@@ -41,17 +41,17 @@
 
 ## 💻 Personal Projects
 
-### ⚡ [SmartCanvas AI](https://mzubtsova.github.io/smart-canvas-ai)
+### ⚡ [SmartCanvas AI](https://smart-canvas-ai-six.vercel.app/)
 An AI-powered multi-channel campaign copywriter, responsive HTML email builder, and live **Liquid personalization sandbox**.
 *   **Key Workflows**: Mimics the Braze preview QA process by testing custom Liquid tags against mock user JSON records instantly on-screen.
 *   **Features**: Includes A/B persona simulated reviews, secure API key local storage, and template uploading via the **Braze templates API**.
 
-### 🏆 [LoyaltyBoost AI](https://mzubtsova.github.io/loyalty-boost-ai)
+### 🏆 [LoyaltyBoost AI](https://loyalty-boost-ai.vercel.app/)
 An interactive gamified loyalty campaign planner, promotion simulator, and digital wallet visualizer.
 *   **Key Workflows**: Designs point-multiplying campaign actions and simulates the customer experience on a dynamic Apple Wallet/Google Pay loyalty card pass mock screen (changing color based on Gold, Silver, or Bronze levels).
 *   **Features**: Runs offer mechanics through an AI behavioral economist to audit and score **Loss Aversion**, **Friction**, and **List Fatigue**.
 
-### 🍦 [OmniQA for Braze](https://mzubtsova.github.io/omni-qa-braze)
+### 🍦 [OmniQA for Braze](https://omni-qa-braze.vercel.app/)
 A unified campaign QA dashboard that compares Figma mockups with coded Braze HTML campaigns to automatically audit copy, visuals, and code health.
 *   **Key Workflows**: Extracts text layers from Figma design frames and runs live A/B copywriting sync and layout checks against Braze HTML.
 *   **Features**: Includes automated Liquid syntax validations, dead link crawlers, WCAG text contrast audits, and spam deliverability heuristics.
