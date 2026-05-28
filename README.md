@@ -74,5 +74,5 @@ An interactive gamified loyalty campaign planner, promotion simulator, and digit
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzubtsova&show_icons=true&theme=nord&count_private=true" alt="Marina's GitHub Stats" />
+  <img src="https://github-readme-stats-one-mu-64.vercel.app/api?username=mzubtsova&show_icons=true&theme=nord&count_private=true" alt="Marina's GitHub Stats" />
 </p>
