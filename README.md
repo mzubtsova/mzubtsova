@@ -51,6 +51,11 @@ An interactive gamified loyalty campaign planner, promotion simulator, and digit
 *   **Key Workflows**: Designs point-multiplying campaign actions and simulates the customer experience on a dynamic Apple Wallet/Google Pay loyalty card pass mock screen (changing color based on Gold, Silver, or Bronze levels).
 *   **Features**: Runs offer mechanics through an AI behavioral economist to audit and score **Loss Aversion**, **Friction**, and **List Fatigue**.
 
+### 🍦 [OmniQA for Braze](https://github.com/mzubtsova/omni-qa-braze)
+A unified campaign QA dashboard that compares Figma mockups with coded Braze HTML campaigns to automatically audit copy, visuals, and code health.
+*   **Key Workflows**: Extracts text layers from Figma design frames and runs live A/B copywriting sync and layout checks against Braze HTML.
+*   **Features**: Includes automated Liquid syntax validations, dead link crawlers, WCAG text contrast audits, and spam deliverability heuristics.
+
 ---
 
 ## 📜 Certifications & Education
