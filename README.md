@@ -46,7 +46,7 @@ A unified campaign QA dashboard that compares Figma mockups with coded Braze HTM
 *   **Key Workflows**: Extracts text layers from Figma design frames and runs live A/B copywriting sync and layout checks against Braze HTML.
 *   **Features**: Includes automated Liquid syntax validations, dead link crawlers, WCAG text contrast audits, and spam deliverability heuristics.
 
-### 📊 [OmniPulse](https://github.com/mzubtsova/OmniPulse)
+### 📊 [OmniPulse](https://omni-pulse-marina-zubtsova-s-projects.vercel.app/)
 A campaign post-deployment analytics dashboard featuring Google Analytics (GA4) API integration, A/B significance analysis, and automated ISP deliverability audits.
 *   **Key Workflows**: Pulls live post-deployment event logs to visualize retrospective conversion funnels and audit campaign net value yield against opt-out/bounce database churn.
 *   **Features**: Includes dynamic email clickmap hotspot overlays, mobile vs. desktop speed splits, and Google Gemini AI post-mortem report and adjustment generation.
