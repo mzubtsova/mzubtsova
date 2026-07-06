@@ -52,7 +52,7 @@ A campaign post-deployment analytics dashboard featuring Google Analytics (GA4) 
 *   **Features**: Includes dynamic email clickmap hotspot overlays, mobile vs. desktop speed splits, and Google Gemini AI post-mortem report and adjustment generation.
 
 
-### ⚡ [SmartCanvas AI](https://smart-canvas-mk9aiwg4x-marina-zubtsova-s-projects.vercel.app/)
+### ⚡ [SmartCanvas AI](https://smart-canvas-ai-six.vercel.app/)
 An AI-assisted CRM campaign workspace for lifecycle marketers: generate campaign copy, build responsive email HTML, QA Liquid personalization, and compare variants with simulated buyer personas.
 *   **Key Workflows**: Tests Braze-style Liquid conditions against editable mock customer JSON, flags parser warnings, previews personalized email output live, and exports templates as HTML or through the **Braze Templates API** path.
 *   **Features**: Includes Gemini/mock generation modes, light/dark UI, gamified launch progress, persona winner scoring, custom Liquid tags, and responsive desktop/mobile campaign QA views.
