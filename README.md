@@ -53,9 +53,9 @@ A campaign post-deployment analytics dashboard featuring Google Analytics (GA4) 
 
 
 ### ⚡ [SmartCanvas AI](https://smart-canvas-mk9aiwg4x-marina-zubtsova-s-projects.vercel.app/)
-An AI-powered multi-channel campaign copywriter, responsive HTML email builder, and live **Liquid personalization sandbox**.
-*   **Key Workflows**: Mimics the Braze preview QA process by testing custom Liquid tags against mock user JSON records instantly on-screen.
-*   **Features**: Includes A/B persona simulated reviews, secure API key local storage, and template uploading via the **Braze templates API**.
+An AI-assisted CRM campaign workspace for lifecycle marketers: generate campaign copy, build responsive email HTML, QA Liquid personalization, and compare variants with simulated buyer personas.
+*   **Key Workflows**: Tests Braze-style Liquid conditions against editable mock customer JSON, flags parser warnings, previews personalized email output live, and exports templates as HTML or through the **Braze Templates API** path.
+*   **Features**: Includes Gemini/mock generation modes, light/dark UI, gamified launch progress, persona winner scoring, custom Liquid tags, and responsive desktop/mobile campaign QA views.
 
 ### 🏆 [LoyaltyBoost AI](https://loyalty-boost-ai.vercel.app/)
 An interactive gamified loyalty campaign planner, promotion simulator, and digital wallet visualizer.
