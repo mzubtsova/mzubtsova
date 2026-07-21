@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marina-zubtsova-98956a205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://marina-zubtsova-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Marketing_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Marketing Portfolio" /></a>
   <a href="mailto:marinaz.code@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Austin%2C%20TX-9f1239?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </p>
@@ -37,14 +36,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 🌐 Marketing Portfolio
-
-[marina-zubtsova-portfolio.vercel.app](https://marina-zubtsova-portfolio.vercel.app/) - case studies for Braze lifecycle campaigns, promotional CRM work, personalization logic, and AI-assisted campaign QA tools.
-
----
 
 ## 💻 Personal Projects
 
