@@ -42,14 +42,14 @@
 ## 💻 Personal Projects
 
 ### 🍦 [OmniQA for Braze](https://omni-qa-braze.vercel.app/)
-A unified campaign QA dashboard that compares Figma mockups with coded Braze HTML campaigns to automatically audit copy, visuals, and code health.
-*   **Key Workflows**: Extracts text layers from Figma design frames and runs live A/B copywriting sync and layout checks against Braze HTML.
-*   **Features**: Includes automated Liquid syntax validations, dead link crawlers, WCAG text contrast audits, and spam deliverability heuristics.
+A read-only pre-deployment QA workspace for Braze Campaigns and Canvases that imports approved assets, reviews available journey steps and messages, and records a human readiness decision.
+*   **Key Workflows**: Imports Campaign or Canvas details through a server-side Braze route, normalizes steps and variants, supports focused copy/technical review, and keeps launch outside the system.
+*   **Features**: Includes Liquid pairing checks, link and UTM review, image/alt-text checks, accessibility signals, channel-length warnings, optional Figma text comparison, editable pre-approval checklists, and print/PDF-ready reports.
 
 ### 📊 [OmniPulse](https://omni-pulse-marina-zubtsova-s-projects.vercel.app/)
-A campaign post-deployment analytics dashboard featuring Google Analytics (GA4) API integration, A/B significance analysis, and automated ISP deliverability audits.
-*   **Key Workflows**: Pulls live post-deployment event logs to visualize retrospective conversion funnels and audit campaign net value yield against opt-out/bounce database churn.
-*   **Features**: Includes dynamic email clickmap hotspot overlays, mobile vs. desktop speed splits, and Google Gemini AI post-mortem report and adjustment generation.
+A post-send campaign analysis workspace for reviewing campaign performance, creative engagement, Liquid branch outcomes, test lift, and deliverability risk with clear data provenance.
+*   **Key Workflows**: Loads demo seed campaigns, parses imported CSV metrics locally, or syncs Braze campaign details through a serverless route when configured. Inferred diagnostics are labeled separately from source data.
+*   **Features**: Includes clickmap hotspot overlays, Liquid branch auditing, two-proportion A/B significance testing, source badges, local report archives, and Gemini-assisted post-mortem summaries.
 
 
 ### ⚡ [SmartCanvas AI](https://smart-canvas-ai-six.vercel.app/)
